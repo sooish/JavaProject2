@@ -32,8 +32,6 @@
 * Libraries : Lombok 
 * Tools : Maven / Eclipse / Kakao Oven
 * References : US News / NCES / BEA
-
-
 ```
 
 
