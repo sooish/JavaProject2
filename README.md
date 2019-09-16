@@ -40,8 +40,3 @@
 * **김수경**: 데이터 모델링 & MVC 패턴 : [김수경의 깃헙](https://github.com/sooish)
 * **남세영**: 데이터 모델링 & 데이터 크롤링 : [남세영의 깃헙](https://github.com/seyoungnam)
  
-
-
-# Images
-
-
