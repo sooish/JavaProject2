@@ -31,7 +31,7 @@
 * Back End Development Languages : Java / SQL
 * Libraries : Lombok 
 * Tools : Maven / Eclipse / Kakao Oven
-* References : US News / NCES / BEA
+* Data : US News / NCES / BEA
 ```
 
 
