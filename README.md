@@ -44,9 +44,4 @@
 
 # Images
 
-![sql trigger1](/desktop/sqk_trigger1.png)
- 
- 
-
-
 
